@@ -76,7 +76,7 @@ Atualmente, temos essas traduções disponíveis de **wtfjs**:
   - [Uma propriedade `constructor`](#uma-propriedade-constructor)
   - [Objeto como uma chave de uma propriedade de objeto](#objeto-como-uma-chave-de-uma-propriedade-de-objeto)
   - [Acessando protótipos com `__proto__`](#acessando-prot%C3%B3tipos-com-__proto__)
-  - [`` `${{Object}}` ``](#-object-)
+  - [`` `${{Object}}` ``](#object)
   - [Desestruturação com valores padrão](#desestrutura%C3%A7%C3%A3o-com-valores-padr%C3%A3o)
   - [Pontos e dispersão](#pontos-e-disper%C3%A7%C3%A3o)
   - [Rótulos](#r%C3%B3tulos)

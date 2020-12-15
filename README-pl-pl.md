@@ -79,7 +79,7 @@ Obecnie są następujące tłumaczenia **wtfjs**:
   - [Właściwość `constructor`](#właściwość-constructor)
   - [Obiekt jako klucz właściwości obiektu](#obiekt-jako-klucz-właściwości-obiektu)
   - [Dostęp do prototypów za pomocą `__proto__`](#dostęp-do-prototypów-za-pomocą-__proto__)
-  - [`` `${{Object}}` ``](#-object-)
+  - [`` `${{Object}}` ``](#object)
   - [Destrukturyzacja z wartościami domyślnymi](#destrukturyzacja-z-wartościami-domyślnymi)
   - [Dots and spreading](#dots-and-spreading)
   - [Etykiety](#etykiety)

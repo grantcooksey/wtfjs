@@ -77,7 +77,7 @@ Actuellement, il existe des traductions de ** wtfjs ** pour les langues suivante
   - [Une propriété `constructor`](#une-propri%C3%A9t%C3%A9-constructor)
   - [Object en tant que clé de la propriété d'un objet](#object-en-tant-que-cl%C3%A9-de-la-propri%C3%A9t%C3%A9-dun-objet)
   - [Accéder aux prototypes avec `__proto__`](#acc%C3%A9der-aux-prototypes-avec-__proto__)
-  - [`` `${{Object}}` ``](#-object-)
+  - [`` `${{Object}}` ``](#object)
   - [Déstructuration avec des valeurs par défaut](#d%C3%A9structuration-avec-des-valeurs-par-d%C3%A9faut)
   - [Points et propagation](#points-et-propagation)
   - [Étiquettes](#%C3%A9tiquettes)
